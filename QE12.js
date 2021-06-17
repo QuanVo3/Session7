@@ -11,5 +11,5 @@ for (let z = 0; z < item.length; z++) {
 let itemName = () => {item[item.length] = document.getElementById("textBox").value;
 console.log(item[item.length - 1]);
 }
-list.render(item, document.getElementById('list'));
+l
 
